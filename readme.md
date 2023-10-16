@@ -1,6 +1,6 @@
-# Intelligent-Systems
+# Digital-systems-1-2
 
-This repository contains verilog files for various topics covered in the computer archtecture course. 
+This repository contains verilog files for various topics covered in the computer architecture course. 
 
 The repository is organized into folders for each topic:
 
